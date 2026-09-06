@@ -14,7 +14,7 @@ The Day 2 work continues directly from the train/test split created on Day 1. Th
 ## Project Structure
 
 ```text
-titanic-ml/
+MSAI_py_lab5/
 │
 ├── data.py
 ├── pipeline.py
